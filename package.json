@@ -1,6 +1,6 @@
 {
   "name": "@qmon/utils",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "files": [
@@ -22,5 +22,17 @@
   "devDependencies": {
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qm8956/qmon-utils.git"
+  },
+  "author": "qm8956",
+  "license": "MIT",
+  "description": "收集一些开发中常见的工具函数，以便查找复制，也可以通过install安装使用",
+  "keywords": [
+    "utils",
+    "typescript",
+    "tools"
+  ]
 }
