@@ -20,6 +20,7 @@
     "build": "vite build && tsc"
   },
   "devDependencies": {
+    "axios": "^1.7.7",
     "typescript": "^5.4.5",
     "vite": "^5.2.10"
   },
